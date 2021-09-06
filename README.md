@@ -4,4 +4,5 @@ My page is loosely based on https://www.cicentral.net/, my local church website 
 
 At the time I'm turning this in, I'm incapable of downloading Pulse Secure on my wifi and still meeting the deadline, so as a temporary workaround, I'm going to use GitHub Pages and add the web4 link as soon as I get back to campus tomorrow. 
 
-GitHub Pages Link: 
+GitHub Pages Link: https://jesse-barrett.github.io/Homework-1-BEM/
+web4 Link: tbd
