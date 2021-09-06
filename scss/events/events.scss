@@ -1,0 +1,17 @@
+.events {
+  background-color: #6b97a2;
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+
+  img:first-child {
+    margin-top: 27px;
+  }
+
+  &__ad {
+    max-width: 600px;
+    margin-bottom: 27px;
+  }
+}

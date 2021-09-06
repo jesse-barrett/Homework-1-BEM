@@ -1,0 +1,25 @@
+//IMPORT ALL STYLES HERE
+//import the structure styling
+@import "structure.scss";
+
+//import the nav styling
+@import "nav.scss";
+
+//import the footer styling
+@import "footer.scss";
+
+//HOME PAGE
+@import "home/hero.scss";
+@import "home/times.scss";
+
+//LOCAL PAGE
+@import "local/title.scss";
+@import "local/local-hero.scss";
+
+//CONNECTIONS PAGE
+@import "connections/banner.scss";
+@import "connections/investment.scss";
+@import "connections/find.scss";
+
+//EVENTS PAGE
+@import "events/events.scss";

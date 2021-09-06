@@ -1,0 +1,24 @@
+.times {
+  min-height: 200px;
+  max-width: 789.3px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  &__column {
+    width: 380px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 200px;
+
+    h1 {
+      font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+      font-weight: lighter;
+      font-size: 30px;
+    }
+  }
+}

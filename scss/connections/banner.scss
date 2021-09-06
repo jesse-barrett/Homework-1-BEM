@@ -1,0 +1,14 @@
+.banner {
+  min-height: 121px;
+  background-color: #68759e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &__text {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+  }
+}

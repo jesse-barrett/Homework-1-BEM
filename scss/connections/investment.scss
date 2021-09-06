@@ -1,0 +1,28 @@
+.investment {
+  width: 100%;
+  min-height: 350px;
+  background-image: url("../img/connections1.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+
+  &__top-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    max-width: 900px;
+    text-align: center;
+    padding-top: 50px;
+  }
+
+  &__bottom-text {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 35px;
+    text-align: center;
+    font-style: italic;
+    text-shadow: 0px 0px 10px white;
+  }
+}
